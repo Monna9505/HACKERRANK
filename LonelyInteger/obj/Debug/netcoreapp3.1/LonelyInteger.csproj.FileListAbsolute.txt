@@ -1,0 +1,13 @@
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\bin\Debug\netcoreapp3.1\LonelyInteger.exe
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\bin\Debug\netcoreapp3.1\LonelyInteger.deps.json
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\bin\Debug\netcoreapp3.1\LonelyInteger.runtimeconfig.json
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\bin\Debug\netcoreapp3.1\LonelyInteger.runtimeconfig.dev.json
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\bin\Debug\netcoreapp3.1\LonelyInteger.dll
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\bin\Debug\netcoreapp3.1\LonelyInteger.pdb
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\obj\Debug\netcoreapp3.1\LonelyInteger.AssemblyInfoInputs.cache
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\obj\Debug\netcoreapp3.1\LonelyInteger.AssemblyInfo.cs
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\obj\Debug\netcoreapp3.1\LonelyInteger.csproj.CoreCompileInputs.cache
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\obj\Debug\netcoreapp3.1\LonelyInteger.dll
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\obj\Debug\netcoreapp3.1\LonelyInteger.pdb
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\obj\Debug\netcoreapp3.1\LonelyInteger.genruntimeconfig.cache
+D:\Programming\HACKERRANK\ProblemSolvingEASY\LonelyInteger\obj\Debug\netcoreapp3.1\LonelyInteger.csprojAssemblyReference.cache
